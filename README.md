@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brendon Kelley
-- 👀 I’m interested in front-end web developement!
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning Vue.js
 - 📫 You can reach me at brendonpkelley@gmail.com or (937) 607-4003
 
